@@ -1,5 +1,7 @@
 <p align="center"><a href="https://www.linkedin.com/in/alejanfm/" target="_blank" alt="Linkedin Profile"></a><img src="https://alejandrofm.com/github/alejandro-marrero-full-stack-developer.png" /></p>
 
+<p align="center">Hi, I'm Alejandro!
+
 <p align="center">⚙️ Welcome to my profile, I've recently graduated as a <strong>Full-Stack Developer</strong> and during the last few years, I've been focusing on and working as an <strong>HTML / CSS layout designer</strong>.
  </p>
 
