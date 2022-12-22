@@ -5,7 +5,7 @@
 <p align="center">⚙️ Welcome to my profile, I've recently graduated as a <strong>Full-Stack Developer</strong> and during the last few years, I've been focusing on and working as an <strong>HTML / CSS layout designer</strong>.
  </p>
 
-<p align="center">🥇 It has been a privilege to be a student at <a href="https://www.codeacademyberlin.com/" target="_blank">@Codeacademyberlin</a> where, after a 5-month of full-time intensive course, I have enhanced my skills to be able to develop several projects using technologies such as <strong>JavaScript, React, TypeScript, MongoDB, Firebase, Node, Express, Rest API, HTML, CSS, Bootstrap, Material UI, Figma.</strong></p>
+<p align="center">🥇 After a 5-month of full-time intensive course, I have enhanced my skills to be able to develop several projects using technologies such as <strong>JavaScript, React, TypeScript, MongoDB, Firebase, Node, Express, Rest API, HTML, CSS, Bootstrap, Material UI, Figma.</strong></p>
 
 <p align="center">💎 My previous experience as a Front-End Designer, combined with my recent graduation as a Full-Stack Developer, make me a well-rounded candidate who can bring great value and versatility.</p>
 
